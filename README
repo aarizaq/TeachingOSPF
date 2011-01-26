@@ -8,3 +8,5 @@ interfaces -- they will be corrected in subsequent INET Framework releases.
 This example simulation has been used to test the OSPF model during
 development.
 
+To intall this example create the directory examples/ospfv2/TeachingOSPF in the inet-framework directory
+

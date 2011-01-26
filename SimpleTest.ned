@@ -1,5 +1,5 @@
 
-package inet.examples.ospfv2.artDocencia;
+package inet.examples.ospfv2.TeachingOSPF;
 
 import inet.linklayer.ethernet.EtherHub;
 import inet.nodes.inet.OSPFRouter;
@@ -103,4 +103,5 @@ network SimpleTest
 
 
 }
+
 
